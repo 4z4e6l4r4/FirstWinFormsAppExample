@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Desktop\C# Uygulamaları\FirstWinFormsAppExample\bin\Debug\FirstWinFormsAppExample.exe.config
+C:\Users\LENOVO\Desktop\C# Uygulamaları\FirstWinFormsAppExample\bin\Debug\FirstWinFormsAppExample.exe
+C:\Users\LENOVO\Desktop\C# Uygulamaları\FirstWinFormsAppExample\bin\Debug\FirstWinFormsAppExample.pdb
+C:\Users\LENOVO\Desktop\C# Uygulamaları\FirstWinFormsAppExample\obj\Debug\FirstWinFormsAppExample.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\FirstWinFormsAppExample\obj\Debug\FirstWinFormsAppExample.Form1.resources
+C:\Users\LENOVO\Desktop\C# Uygulamaları\FirstWinFormsAppExample\obj\Debug\FirstWinFormsAppExample.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\C# Uygulamaları\FirstWinFormsAppExample\obj\Debug\FirstWinFormsAppExample.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\FirstWinFormsAppExample\obj\Debug\FirstWinFormsAppExample.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\FirstWinFormsAppExample\obj\Debug\FirstWinFormsAppExample.exe
+C:\Users\LENOVO\Desktop\C# Uygulamaları\FirstWinFormsAppExample\obj\Debug\FirstWinFormsAppExample.pdb
